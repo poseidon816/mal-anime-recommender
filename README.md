@@ -42,7 +42,7 @@ Where:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/mal-anime-recommender.git
+git clone https://github.com/poseidon816/mal-anime-recommender.git
 cd mal-anime-recommender
 ```
 
@@ -145,7 +145,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Harish Mogaveer - harishmogaveer816@gmail.com
 
-Project Link: [https://github.com/poseidon816/mal-anime-recommender.git](https://github.com/YOUR_USERNAME/mal-anime-recommender)
+Project Link: [https://github.com/poseidon816/mal-anime-recommender.git]
 
 ---
 
