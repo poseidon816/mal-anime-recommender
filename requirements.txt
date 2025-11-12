@@ -1,5 +1,5 @@
 annotated-types==0.6.0
-anyio==3.6.1
+anyio
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asttokens==2.0.8
@@ -84,8 +84,7 @@ prompt-toolkit==3.0.31
 psutil==5.9.2
 pure-eval==0.2.2
 pycparser==2.21
-pydantic==2.4.2
-pydantic_core==2.10.1
+# spydantic_core==2.10.1
 pygame==2.2.0
 Pygments==2.13.0
 pyparsing==3.0.9
@@ -97,7 +96,6 @@ pywin32==304
 pywinpty==2.0.8
 pyzmq==24.0.0
 regex==2024.11.6
-requests==2.28.1
 rich==14.0.0
 scikit-learn==1.6.1
 scipy==1.15.2
@@ -132,3 +130,10 @@ webencodings==0.5.1
 websocket-client==1.4.1
 Werkzeug==2.2.3
 wrapt==1.17.2
+# Core dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+requests==2.31.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
